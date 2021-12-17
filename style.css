@@ -16,13 +16,11 @@
 
 
 
-.green{
-    background-color: #3cdb3c;
-}
+
 
 header{
     height: 100px;
-    background: gray;
+    background-color: #3cdb3c;
     margin-top: 75px;
 }
 
@@ -42,6 +40,17 @@ header{
 .card-body-2{
    background-color: gray;
    height: 200px;
+}
+
+.card-body-2 h5{
+    text-align: center;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+
+.card-body-2 p{
+    text-align: center;
+    text-transform: uppercase;
 }
 
 footer{
